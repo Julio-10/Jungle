@@ -1,2 +1,1 @@
-# Jungle
-Normad code
+print("Hello world")
